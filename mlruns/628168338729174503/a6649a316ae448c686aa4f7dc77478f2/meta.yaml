@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/a6649a316ae448c686aa4f7dc77478f2/artifacts
+end_time: 1771581520211
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: a6649a316ae448c686aa4f7dc77478f2
+run_name: Naive Bayes
+run_uuid: a6649a316ae448c686aa4f7dc77478f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581520018
+status: 3
+tags: []
+user_id: banji

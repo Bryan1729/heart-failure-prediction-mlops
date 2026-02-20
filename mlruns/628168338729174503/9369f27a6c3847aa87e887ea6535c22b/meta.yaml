@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/9369f27a6c3847aa87e887ea6535c22b/artifacts
+end_time: 1771580442485
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: 9369f27a6c3847aa87e887ea6535c22b
+run_name: Random Forest Classifier
+run_uuid: 9369f27a6c3847aa87e887ea6535c22b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771580441550
+status: 3
+tags: []
+user_id: banji

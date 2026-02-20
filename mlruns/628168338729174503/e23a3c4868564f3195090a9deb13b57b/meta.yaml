@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/e23a3c4868564f3195090a9deb13b57b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: e23a3c4868564f3195090a9deb13b57b
+run_name: Session Initialized 8484
+run_uuid: e23a3c4868564f3195090a9deb13b57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771580416250
+status: 1
+tags: []
+user_id: banji

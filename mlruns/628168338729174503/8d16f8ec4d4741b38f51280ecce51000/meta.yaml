@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/8d16f8ec4d4741b38f51280ecce51000/artifacts
+end_time: 1771581520661
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: 8d16f8ec4d4741b38f51280ecce51000
+run_name: Quadratic Discriminant Analysis
+run_uuid: 8d16f8ec4d4741b38f51280ecce51000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581520511
+status: 3
+tags: []
+user_id: banji

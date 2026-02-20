@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/e56630ed159e4ea1adb6fe6d1ab289a1/artifacts
+end_time: 1771581519433
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: e56630ed159e4ea1adb6fe6d1ab289a1
+run_name: Logistic Regression
+run_uuid: e56630ed159e4ea1adb6fe6d1ab289a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581519279
+status: 3
+tags: []
+user_id: banji

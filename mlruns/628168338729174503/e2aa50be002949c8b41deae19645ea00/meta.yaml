@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/e2aa50be002949c8b41deae19645ea00/artifacts
+end_time: 1771580445255
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: e2aa50be002949c8b41deae19645ea00
+run_name: Decision Tree Classifier
+run_uuid: e2aa50be002949c8b41deae19645ea00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771580445110
+status: 3
+tags: []
+user_id: banji

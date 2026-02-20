@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/ff99d5ff650d4a1bbc9aab6f4e603042/artifacts
+end_time: 1771581519210
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: ff99d5ff650d4a1bbc9aab6f4e603042
+run_name: Gradient Boosting Classifier
+run_uuid: ff99d5ff650d4a1bbc9aab6f4e603042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581519060
+status: 3
+tags: []
+user_id: banji

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/75e70b16d3954836945247efe8610217/artifacts
+end_time: 1771580445471
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: 75e70b16d3954836945247efe8610217
+run_name: Dummy Classifier
+run_uuid: 75e70b16d3954836945247efe8610217
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771580445320
+status: 3
+tags: []
+user_id: banji

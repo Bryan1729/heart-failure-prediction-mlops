@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/b4818a42ef55442c8c6aeefb1f33ad06/artifacts
+end_time: 1771581518346
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: b4818a42ef55442c8c6aeefb1f33ad06
+run_name: Light Gradient Boosting Machine
+run_uuid: b4818a42ef55442c8c6aeefb1f33ad06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581518196
+status: 3
+tags: []
+user_id: banji

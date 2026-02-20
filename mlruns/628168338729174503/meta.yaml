@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Coding/MLOPS/mlruns/628168338729174503
+creation_time: 1771580416129
+experiment_id: '628168338729174503'
+last_update_time: 1771580416129
+lifecycle_stage: active
+name: heart_failure_mlops

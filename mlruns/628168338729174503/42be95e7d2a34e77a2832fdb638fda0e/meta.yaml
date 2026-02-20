@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Coding/MLOPS/mlruns/628168338729174503/42be95e7d2a34e77a2832fdb638fda0e/artifacts
+end_time: 1771581518783
+entry_point_name: ''
+experiment_id: '628168338729174503'
+lifecycle_stage: active
+run_id: 42be95e7d2a34e77a2832fdb638fda0e
+run_name: Ridge Classifier
+run_uuid: 42be95e7d2a34e77a2832fdb638fda0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771581518636
+status: 3
+tags: []
+user_id: banji

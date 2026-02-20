@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+dependencies:
+- pip<=26.0.1
+- pip:
+  - mlflow==2.13.2
+  - pycaret==3.3.2
+name: heart_failure_mlops-env
